@@ -87,7 +87,7 @@ This experience highlighted an important risk associated with automated LaTeX/Bi
 
 As a consequence, we now strongly recommend:
 
-1. manually reviewing all modified BibTeX entries after automatic repairs;
+1. manually reviewing all modified BibTeX entries after automatic compilation repairs;
 2. comparing generated references against original sources;
 3. avoiding blind acceptance of automated compilation fixes.
 
