@@ -56,8 +56,7 @@ This was the first manuscript we prepared fully in LaTeX, and at the time we wer
 
 ### Correct Reference
 
-> Wootton, K. L. 2017. Omnivory and stability in freshwater habitats: Does theory match reality? – Freshwater Biology 62: 821–832. https://doi.org/10.1111/fwb.12908
-
+> Wootton, K. L. 2017. Omnivory and stability in freshwater habitats: Does theory match reality? – Freshwater Biology 62: 821–832.
 ## Why the Errors Were Difficult to Detect
 
 Several aspects made these problems particularly difficult to identify:
