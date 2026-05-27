@@ -6,7 +6,7 @@ After publication of our paper in Oikos (https://nsojournals.onlinelibrary.wiley
 
 During manuscript preparation in LaTeX, three references in the `.bib` file contained problematic characters that prevented successful compilation of the reference list and PDF generation. These characters likely originated either from manual entry or from exported citation metadata.
 
-To diagnose and fix the compilation problem, an automated compilation-repair tool available on a LaTeX online platform (Overleaf.com) was used. The tool successfully restored compilation and allowed the PDF to be generated. We then used these files that successfully compiled in our local LaTex workflow.
+To diagnose and fix the compilation problem, an automated compilation-repair tool available on a LaTeX online platform (Overleaf.com) was used. The tool successfully restored compilation and allowed the PDF to be generated. We assumed that problematic characters, missing brackets, or minor issues would be the cause of the compilation failure. We then used these files that successfully compiled in our local LaTex workflow.
 
 However, the automated repair process silently rewrote portions of several BibTeX entries instead of only correcting the malformed characters. Critically:
 
