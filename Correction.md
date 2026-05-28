@@ -77,7 +77,7 @@ Several aspects made these problems particularly difficult to identify:
 
 
 
-## Lessons Learned
+## Lessons
 
 This experience highlighted an important risk associated with automated LaTeX/BibTeX repair tools:
 
@@ -85,10 +85,5 @@ This experience highlighted an important risk associated with automated LaTeX/Bi
 - automatic repair systems may silently rewrite bibliographic metadata;
 - preserving citation keys can conceal corrupted references.
 
-As a consequence, we now strongly recommend:
-
-1. manually reviewing all modified BibTeX entries after automatic compilation repairs;
-2. comparing generated references against original sources;
-3. avoiding blind acceptance of automated compilation fixes.
 
 We are documenting this publicly both for transparency and to help other researchers avoid similar problems in future LaTeX workflows.
